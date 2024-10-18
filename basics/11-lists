@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -la /holbertonschool-shell/basics /holbertonschool-shell /boot
+
