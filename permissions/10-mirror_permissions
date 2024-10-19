@@ -1,2 +1,2 @@
 #!/bin/bash
-touch olleh hello && chmod 354 olleh && chmod 645 hello
+chmod --reference olleh hello
